@@ -13,6 +13,7 @@ const routes = {
   "k8s.marchgzs.cn": "https://registry.k8s.io",
   "ghcr.marchgzs.cn": "https://ghcr.io",
   "cloudsmith.marchgzs.cn": "https://docker.cloudsmith.io",
+  "tailscale.marchgzs.cn": "https://tailscale.com",
 };
 
 
